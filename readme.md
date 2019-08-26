@@ -8,7 +8,7 @@
 
 字体使用的是`阿里巴巴普惠体`，下载地址：
 
-![1566798773087](D:\OneDrive\git_resume\readme.assets\1566798773087.png)
+![展示](https://github.com/Methy1benz3ne/resume/blob/master/readme.assets/1566798773087.png?raw=true)
 
 
 
